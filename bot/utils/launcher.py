@@ -17,7 +17,26 @@ from .ps import check_base_url
 
 
 start_text = """
-                                BY D4rkCipherX                                                                                                                                                                         
+< SCRIPTHUB00 >
+ -------------
+    \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+        "*$bd$$$$      '*$$$$$$$$$$$o+#"
+             """"          """""
+  _____          _____  _  __  _      _____ ______ ______
+ |  __ \   /\   |  __ \| |/ / | |    |_   _|  ____|  ____|
+ | |  | | /  \  | |__) | ' /  | |      | | | |__  | |__
+ | |  | |/ /\ \ |  _  /|  <   | |      | | |  __| |  __|
+ | |__| / ____ \| | \ \| . \  | |____ _| |_| |    | |____
+ |_____/_/    \_\_|  \_\_|\_\ |______|_____|_|    |______|
+                                                                                                                                                                                                     
 Select an action:
 
     1. Run clicker (Session)
@@ -81,7 +100,7 @@ async def process() -> None:
     logger.info(f"Detected {len(get_session_names())} sessions | {len(get_proxies())} proxies")
     
     logger.info(
-        '<yellow>SUBSCRIBE ME ON YOUTUBE(https://www.youtube.com/@D4rkCipherX)</yellow>')
+        '<red>SUBSCRIBE ME ON YOUTUBE(https://youtube.com/@airloot8467?feature=shared)</red>')
 
     if not action:
         print(start_text)
