@@ -17,6 +17,7 @@ from .ps import check_base_url
 
 
 start_text = """
+
 < SCRIPTHUB00 >
  -------------
     \
